@@ -7,3 +7,5 @@
   * Commit **(or save changes)** basically ingrains the changes you've made in your files, pratically saving your work. Before commit, you'll have to write something into text bar and it could literally be anything. Usually people write what they need to do next or simply the word "done".
 
 **TD;LR- Git is like the knowledge, Github is a school, repository is the projects, H.W, C.W, etc.**
+
+"Reviewed by Ramses" (The Goat)
